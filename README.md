@@ -4,16 +4,17 @@ This repository contains multiple HTML & CSS projects built for practice:
 
 ## 🔗 Live Preview
 
-- [Access All Projects](https://chaitanya3107-P.github.io/HTML-CSS-Projects/index.html)
-- [A.P.J Abdul Kalam Blog](https://chaitanya3107-P.github.io/HTML-CSS-Projects/A.P.J%20Abdul%20Kalam%20Blog/)
-- [Job Application Website](https://chaitanya3107-P.github.io/HTML-CSS-Projects/Job%20application%20(web)/)
-- [Music Website](https://chaitanya3107-P.github.io/HTML-CSS-Projects/Music%20Website/)
-- [Restaurant Website](https://chaitanya3107-P.github.io/HTML-CSS-Projects/Restaurant%20Website/)
-- [YouTube Interface](https://chaitanya3107-P.github.io/HTML-CSS-Projects/Youtube%20Interface/)
-- [Amazon Clone](https://chaitanya3107-P.github.io/HTML-CSS-Projects/amazon-clone/)
-- [Spotify Clone](https://chaitanya3107-P.github.io/HTML-CSS-Projects/spotify_clone/)
-- [Sine](https://chaitanya3107-P.github.io/HTML-CSS-Projects/sine/)
-- [Aryabhatta Sine Calculator](https://chaitanya3107-P.github.io/HTML-CSS-Projects/arya_calculator/)
+* [Access All Projects](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/index.html)
+* [A.P.J Abdul Kalam Blog](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/A.P.J%20Abdul%20Kalam%20Blog/)
+* [Job Application Website](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/Job%20application%20%28web%29/)
+* [Music Website](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/Music%20Website/)
+* [Restaurant Website](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/Restaurant%20Website/)
+* [YouTube Interface](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/Youtube%20Interface/)
+* [Amazon Clone](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/amazon-clone/)
+* [Spotify Clone](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/spotify_clone/)
+* [Sine](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/sine/)
+* [Aryabhatta Sine Calculator](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/arya_calculator/)
+* [Simon Says Game](https://chaitanya3107-P.github.io/HTML-CSS-JS-Projects/Simon%20Says%20Game/)
 
 ## 📂 How to View
 
@@ -21,4 +22,4 @@ Open any project folder and run the `index.html` file in your browser.
 
 ## 👤 Author
 
-**Chaitanya Patil** add in this 
+**Chaitanya Patil**
